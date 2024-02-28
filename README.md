@@ -1,6 +1,8 @@
 # STATS-220
 ## STATS 220 repository for assignment 1 by Finn J.T de Lange
 
+This repository is for my first assignment in STATS 200 - Data technologies.
+
 * This was *necessary* for my assignment.
 * avocados are **overrated**
 
