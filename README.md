@@ -5,6 +5,7 @@ This repository is for my first assignment in STATS 200 - Data technologies.
 
 * This was *necessary* for my assignment.
 * avocados are **overrated**
+* 🎷
 
 There are a few goals in this assignment:
 
