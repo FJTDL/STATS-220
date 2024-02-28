@@ -11,4 +11,4 @@ There are a few goals in this assignment:
 3. Learn something
 
 ### Below is how every first lecture feels.
-![Cat-GPT]([https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif](https://tenor.com/en-GB/view/cat-head-bang-exhausted-gif-16831747)https://tenor.com/en-GB/view/cat-head-bang-exhausted-gif-16831747)
+![Cat-GPT](https://media1.tenor.com/m/KyVAeta1OfYAAAAC/cat-head-bang.gif)
