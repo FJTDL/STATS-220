@@ -11,4 +11,4 @@ There are a few goals in this assignment:
 3. Learn something
 
 ### Below is how every first lecture feels.
-![Cat-GPT](https://www.cat-gpt.com/](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ftheres-a-cat-on-his-head%3Fsort%3Drelevant&psig=AOvVaw2wjil6EyoKzxjO6e38Xa5r&ust=1709172370901000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCnrLL5zIQDFQAAAAAdAAAAABAD)https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Ftheres-a-cat-on-his-head%3Fsort%3Drelevant&psig=AOvVaw2wjil6EyoKzxjO6e38Xa5r&ust=1709172370901000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCnrLL5zIQDFQAAAAAdAAAAABAD](https://media1.tenor.com/m/KyVAeta1OfYAAAAC/cat-head-bang.gif)https://media1.tenor.com/m/KyVAeta1OfYAAAAC/cat-head-bang.gif](https://cdn.pixabay.com/photo/2024/02/23/17/26/clock-8592484_1280.jpg)https://cdn.pixabay.com/photo/2024/02/23/17/26/clock-8592484_1280.jpg)
+![Cat-GPT](https://c.tenor.com/LSDeBe2JAfoAAAAC/cat-coding.gif)
