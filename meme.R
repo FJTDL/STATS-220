@@ -1,29 +1,5 @@
 library(magick)
 
-# Actual code below
-
-# First experimental meme
-#is_this_meme <- image_read("https://i.guim.co.uk/img/media/44856f0611a6ae5e8f4e1875772d8f462a7e6f10/0_139_1118_671/master/1118.jpg?width=1200&quality=85&auto=format&fit=max&s=879e85646e59ea6a7aab83a1e66ab506") %>%
-# image_scale(550) %>%
-#image_annotate(text="Is this free data?",
-#              font="Impact",
-#             gravity="south",
-#            size=30,
-#           color="#FFF") %>%
-#image_annotate(text="Students",
-#              font="Impact",
-#             location="+400+90",
-#            size=20,
-#           color="#FFF") %>%
-#image_annotate(text="Stats Lecturers",
-#              font="Impact",
-#             location="+130+20",
-#            size = 20,
-#           color="#FFF")
-
-
-
-
 # Drake hating
 drake_panel_1 <- image_read("https://i.ytimg.com/vi/wAbnNZDhYrA/maxresdefault.jpg") %>%
   image_scale(250)
@@ -64,7 +40,8 @@ second_bottom_vector <- c(thousand, hellish_box)
 second_bottom_image <- image_append(second_bottom_vector)
 bottom_line <- image_animate(c(bottom_image, second_bottom_image), fps=1)
 
-final_meme <- image_composite(my_meme, bottom_line, offset="+0+141")
+final_meme <- image_composite(my_meme, bottom_line, offset="+0+141") %>%
+  image_animate(fps=1)
 #final_meme  <- image_composite(partial_meme, bottom_right, offset="+260+141")
 final_meme
-image_write(my_meme, "meme.gif")
+image_write(my_meme, "meme.gif", format="gif")
