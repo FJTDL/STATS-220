@@ -62,14 +62,17 @@ scary_vector <- image_append(c(fear_image, what_scares_me))
 # Creating the second bottom vector and animating it
 second_bottom_vector <- c(thousand, hellish_box)
 second_bottom_image <- image_append(second_bottom_vector)
+second_bottom_image
 bottom_line <- c(bottom_image, second_bottom_image)
 
 # The final meme requires the animated vector to be composed on the top
 final_meme <- image_composite(my_meme, bottom_line, offset="+0+141") #%>%
+final_meme <- image_append(c(top_vector, second_bottom_image), stack=TRUE)
+final_meme
 happy_frame <- image_append(c(happy_vector, second_bottom_image), stack=TRUE) 
 happy_frame
 all_frames_vector <- c(my_meme, final_meme, happy_frame, scary_vector)
 absolute <- image_animate(all_frames_vector, fps=0.5)
 absolute
 # Saving the gif
-image_write(final_meme, "meme.gif")
+#image_write(final_meme, "meme.gif")
